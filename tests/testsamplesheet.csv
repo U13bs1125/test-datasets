@@ -1,3 +1,4 @@
 sample,fasta
-test1,https://raw.githubusercontent.com/nf-core/test-datasets/modules/data/genomics/sarscov2/genome/genome.fasta
-test2,https://raw.githubusercontent.com/nf-core/test-datasets/modules/data/genomics/sarscov2/illumina/fasta/contigs.fasta
+test1,https://github.com/nf-core/test-datasets/blob/modules/data/genomics/homo_sapiens/genome/chr22/sequence/chr22_23800000-23980000.fa
+test2,https://raw.githubusercontent.com/nf-core/test-datasets/modules/data/genomics/sarscov2/genome/genome.fasta
+test3,https://raw.githubusercontent.com/nf-core/test-datasets/modules/data/genomics/sarscov2/illumina/fasta/contigs.fasta
